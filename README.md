@@ -19,9 +19,11 @@ cv-realtime-detection/
 ├── rapport_Lahaussois.pdf                                     
 ├── requirements.txt               
 └── README.md
+```
 
 ## 💻 Commandes
 
+```
 git clone https://github.com/theolahaussois/cv-realtime-detection.git
 
 cd cv-realtime-detection
