@@ -1,0 +1,6 @@
+# Opencv pour la lecture et le traitement vidéo
+opencv-python
+
+# Mediapipe pour la détection
+mediapipe
+
