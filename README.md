@@ -18,4 +18,14 @@ cv-realtime-detection/
 │   └── detect.py                       
 ├── rapport_Lahaussois.pdf                                     
 ├── requirements.txt               
-└── README.md                      
+└── README.md
+
+## 💻 Commandes
+
+git clone https://github.com/theolahaussois/cv-realtime-detection.git
+
+cd cv-realtime-detection
+
+pip install -r requirements.txt
+
+python src/detect.py
